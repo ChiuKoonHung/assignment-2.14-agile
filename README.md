@@ -23,35 +23,79 @@ The result of it should look like this:
 
 <img src="./assets/images/trello.png" />
 
+```
+// Part 1 link: https://trello.com/b/mdyieB3k/sdi-c1-group2
+```
+
 ## Part 2 - Research and Discuss
 
 Reflect on the [Agile Manifesto](https://agilemanifesto.org/), phrase them in no more than five sentences in your own words.
 
 ```
-// Your response here
+// 
+- To promote self-management and communications among the team instead of having traditional top-down work flow processes.
+
+- To create functional software and not over-do your task.
+
+- Work closely together with customers to understand their needs and cater to their desired product.
+
+- Be adaptive to change what does not work or what could work better. 
 ```
 
 Agile Methodology does not just apply to software development but any project management. Recollect the 12 principles of Agile and share which three principles are commonly violated in your experience and what can be done differently?
 
 ```
-// Your response here
+// 
+1) Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+- Micro-managing and not giving the freedom and trust to complete the job. It is neccessary to let members explore and express themselves so as not to limit their creativity.
+
+2) Maintain a constant pace
+- Doing too much will result in burnt-out, while doing too little will result in snowballing of backlogs. It is neccessary to keep at your own manageable pace for the long run.
+
+3) Continuous attention to technical excellence and good design enhances agility.
+-  Complex codes will be hard for others to understand and follow up. We need to write codes that are DRY and easy for others to comprehend. 
 ```
 
 What are the three roles that make up a SCRUM Team? Explain the function(s) of the three roles.
 
 ```
-// Your response here
+// 
+1) Product Owner
+- Manages the Product Backlog and optimizes value of product.
+2) Scrum Master
+- Manages the Scrum process and removes impediments.
+3) Development Team
+- Self-managing. Collaboratively create task to meet their forecast as reflected in the Sprint Backlog, re-plan their work on a daily basis within the time-boxed Sprint and deliver a potentially releasable increment of software at the end of each Sprint.
 ```
 
 What are the SCRUM Values? 
 
 ```
-// Your response here
+// 
+1) Commitment
+2) Focus
+3) Openness
+4) Respect
+5) Courage
 ```
 
 How many types of meetings are there in SCRUM? What is the purpose of each of them?
 ```
-// Your response here
+// 
+1) Sprint Planning Meeting
+- At the beginning of every Sprint, develop realistic Sprint backlog and define the highest priority tasks which need to be done during the length of each Sprint.
+
+2) Daily Scrum Meeting
+- short 15 minutes meetings which occur on daily basis. only task-statuses and hindrances are discussed.
+
+3) Sprint Review Meeting
+- At the end of each Sprint, demonstrate the functionality of the product and what has been achieved. product performance is also measured against the original Sprint goals to oversee any major changes.
+
+4) Sprint Retrospective Meeting
+- reviewing what went right, wrong and what improvements are needed to be made. A thorough analysis of what should be done in future.
+
+5) Backlog Refinement Meeting
+- the product backlog items are categorized and prioritized after a technical discussion with the team to make sure that the team understands what exactly are the deliverables and what are the requirements. It reduces the need for a long Sprint planning meeting and gives the team a chance to reflect on the backlog items before fully committing to the Sprint goals.
 ```
 
 ## Submission Guidelines
